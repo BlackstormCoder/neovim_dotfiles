@@ -1,5 +1,5 @@
-require("dedsec.remap")
 require("dedsec.packer")
+require("dedsec.remap")
 require("dedsec.set")
 require("dedsec.theme")
 require("dedsec.ui")
