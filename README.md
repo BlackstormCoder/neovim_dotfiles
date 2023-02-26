@@ -13,7 +13,7 @@ If you have any suggestions for improving this config, please feel free to submi
 For `Linux`:
 
 ```
-git clone <https://github.com/BlackstormCoder/nvim.git> ~/.config/nvim
+git clone https://github.com/BlackstormCoder/nvim.git ~/.config/nvim
 ```
 
 To try it on `Docker`:
