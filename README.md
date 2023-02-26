@@ -2,9 +2,9 @@
 
 These are my personal `neovim` config files.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9c48e86-a32a-4a00-9006-baf6dec3307a/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9c48e86-a32a-4a00-9006-baf6dec3307a/Untitled.png)
+![nvim1](https://raw.githubusercontent.com/BlackstormCoder/nvim/main/assets/nvim1.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23efc935-15cb-4acc-b079-b714531720d7/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/23efc935-15cb-4acc-b079-b714531720d7/Untitled.png)
+![nvim2](https://raw.githubusercontent.com/BlackstormCoder/nvim/main/assets/nvim2.png)
 
 If you have any suggestions for improving this config, please feel free to submit a pull request.
 
