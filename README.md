@@ -14,7 +14,6 @@ For `Linux`:
 
 ```
 git clone <https://github.com/BlackstormCoder/nvim.git> ~/.config/nvim
-
 ```
 
 To try it on `Docker`:
