@@ -13,6 +13,8 @@ If you have any suggestions for improving this config, please feel free to submi
 For `Linux`:
 
 ```
+# First install fd-find and ripgrep
+
 curl -LO https://github.com/neovim/neovim/releases/latest/download/nvim-linux64.tar.gz
 tar xzvf nvim-linux64.tar.gz
 sudo mv nvim-linux64/ /opt
