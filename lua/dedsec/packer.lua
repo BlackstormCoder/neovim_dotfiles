@@ -126,7 +126,20 @@ return require('packer').startup(function(use)
     use 'akinsho/git-conflict.nvim'
     use 'kdheepak/lazygit.nvim'
     use 'ThePrimeagen/git-worktree.nvim'
-
+    use({
+        "kylechui/nvim-surround",
+        tag = "*", -- Use for stability; omit to use `main` branch for the latest features
+        config = function()
+            require("nvim-surround").setup({
+                -- Configuration here, or leave empty to use defaults
+            })
+        end
+    })
+    use({
+        "nvim-treesitter/nvim-treesitter-textobjects",
+        after = "nvim-treesitter",
+        requires = "nvim-treesitter/nvim-treesitter",
+    })
     -- Neovim helpers.
     use 'folke/which-key.nvim'
     use 'sudormrfbin/cheatsheet.nvim'
